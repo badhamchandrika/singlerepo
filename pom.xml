@@ -27,6 +27,7 @@
 	<modules>
 		<module>project1</module>
 		<module>project2</module>
+		<module>project3</module>
 	</modules>
 	<properties>
 		<aem.host>localhost</aem.host>
